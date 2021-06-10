@@ -1,0 +1,129 @@
+h1{
+  color: rgb(60, 23, 56);
+  letter-spacing: 4px;
+  text-align: center;
+  border: dotted;
+  border-color: rgb(200, 10, 67);
+  background-color: rgb(270, 80, 130);
+}
+body{
+  background-color: rgb(220, 80, 130);
+}
+.test{
+  position: absolute;
+  top: 90%;
+  left:89%;
+  color: rgb(220, 20, 80);
+  font-family: sans-serif;
+  font-weight: bold;
+  border: solid;
+  font-size: 20px;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+       -moz-user-select: none; /* Old versions of Firefox */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.test:hover{
+  color: rgb(180, 20, 80) !important;
+  transition: ease-in-out .5s;
+  cursor: pointer;
+}
+  #snowflakeContainer {
+          position: absolute;
+          left: 0px;
+          top: 0px;
+    display: none;}
+.snowflake{
+  position: fixed;
+  background-color: white;
+  user-select:none;
+  z-index: 1000;
+  pointer-events: none;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+.abstract{
+  display: none;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgba(110,30,90,1);
+  letter-spacing: 2px;
+  text-align: center;
+}
+.Madotsuki{
+  font-family: sans-serif;
+  font-size: 15.5px;
+  font-weight: bold;
+  color: rgba(110,30,90,1);
+  letter-spacing: 2px;
+  text-align: center;
+}
+p2{
+  position: absolute;
+  right: 80%;
+  top: 200%;
+}
+p3{
+  color: #1b136e;
+  background-color:#6666ef;
+}
+.abstract{
+  Color: #05390a;
+  background-color:#6aa77a;
+}
+p4{
+  color: #032406;
+  font-weight: bold;
+}
+p5{
+  color: white;
+}
+p8{
+  color: #e4046c;
+}
+p7{
+  background-color: #b05b8a;
+  color:#4e1444;
+}
+.testimage{
+  width:300px;
+  height:200px;
+  position:absolute;
+  left:65%;
+  top: 70%;
+}
+.testimage3{
+  width:300px;
+  height:300px;
+  position:absolute;
+  left:20px;
+  top:350px;
+  border:dotted;
+}
+.testimage6{
+  height:300px;
+  width: 400px;
+  position:absolute;
+  left:550px;
+  top:350px;
+  border:dotted;
+}
+.testimage2{
+  position:absolute;
+  right:70%;
+  top:73%;
+  width:250px;
+  height:190px;
+}
+.ugh{
+  position:absolute;
+  right:50%;
+  top:73%;
+  width:200px;
+  height:180px;
+}
